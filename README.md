@@ -10,7 +10,7 @@ I work in AI by day and build my own agents by night. This page is the night par
 
 * 🕸️ **These aren't four agents. They're four swarms.** Each orchestrates its own subagents; they share memory and coordinate through a sprint board where they leave each other notes. Built with Claude Code and custom MCP servers: apps on Vercel and Cloudflare, data in Supabase and Upstash, shared brain in Obsidian. It's the orchestration problem every enterprise is about to face, in miniature.
 
-* 🎤 **I talk about it too**, at ShopTalk, VivaTech, and WebSummit — but the rule of this profile is: nothing gets talked about here that wasn't built first. That's also the thesis of **julie-builds**, my personal site (coming soon): *I don't just talk about AI. I build it.*
+* 🎤 **I talk about it too**, at ShopTalk, VivaTech, and WebSummit — but the rule of this profile is: nothing gets talked about here that wasn't built first. *I don't just talk about AI. I build it.*
 
 * 🧒 **My favourite beta testers are my own sons, both born in the 2010s.** They test my agents, question everything, and force me to rephrase until it's simple, fun, and human. Best design reviewers I've ever worked with. (For the grown-ups: I also advise AI startups backed by leading VCs.)
 
