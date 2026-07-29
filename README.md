@@ -1,6 +1,6 @@
 # Hi, I'm Julie 👋
 
-I work in AI by day and build my own agents by night. This page is the night part: personal projects, shipped on my own time, for my own life. I grew up in Ghent, Belgium, and fell in love with retail folding sweaters in a Belgian lifestyle store; brands have been my world ever since. I'm an economist by training, not a computer scientist. That's exactly why I build: I want to understand AI from the keyboard, not just the boardroom.
+I work in AI by day and build my own agents by night. This page is the night part: personal projects, shipped on my own time, for my own life. I grew up in Ghent, Belgium 🇧🇪, and fell in love with retail folding sweaters in a Belgian lifestyle store; brands have been my world ever since. I'm an economist by training, not a computer scientist. That's exactly why I build: I want to understand AI from the keyboard, not just the boardroom.
 
 * 🔨 **I build AI agents and micro tools to make my life run better.** Some are public, others not (yet):
   * **Holy**: a four-specialist health swarm (coach, nutritionist, doc, sports psychologist) training me for my next marathon.
@@ -16,7 +16,7 @@ I work in AI by day and build my own agents by night. This page is the night par
 
 * 🏃‍♀️ **Fun fact:** I've run 12 marathons and compete in Hyrox. My running coach is one of my own agents, and yes, it tells me to rest more than any human coach ever dared.
 
-* 🌍 I've lived in Ghent, Bologna, Amsterdam, London, Washington D.C., and Paris. I operate in Dutch, French, English, and Portuguese, and my agents answer in all of them.
+* 🌍 I've lived in Ghent 🇧🇪, Bologna 🇮🇹, Amsterdam 🇳🇱, London 🇬🇧, Washington D.C. 🇺🇸, and Paris 🇫🇷. I operate in Dutch, French, English, and Portuguese, and my agents answer in all of them.
 
 I'm best reached on [LinkedIn](https://www.linkedin.com/in/juliedemoyer). Always open to conversations about agentic AI, luxury and retail, or why every executive should ship at least one thing themselves.
 
