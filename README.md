@@ -14,8 +14,6 @@ I work in AI by day and build my own agents by night. This page is the night par
 
 * 🧒 **My favourite beta testers are my own sons, both born in the 2010s.** They test my agents, question everything, and force me to rephrase until it's simple, fun, and human. Best design reviewers I've ever worked with. (For the grown-ups: I also advise AI startups backed by leading VCs.)
 
-* 🏃‍♀️ **Fun fact:** I've run 12 marathons and compete in Hyrox. My running coach is one of my own agents — and yes, it tells me to rest more than any human coach ever dared.
-
 * 🌍 I've lived in Ghent 🇧🇪, Bologna 🇮🇹, Amsterdam 🇳🇱, London 🇬🇧, Washington D.C. 🇺🇸, and Paris 🇫🇷. I operate in Dutch, French, English, and Portuguese — and my agents answer in all of them.
 
 🤝 I'm best reached on [LinkedIn](https://www.linkedin.com/in/juliedemoyer). Always open to conversations about agentic AI, luxury and retail, or why every executive should ship at least one thing themselves.
