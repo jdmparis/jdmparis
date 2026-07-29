@@ -12,7 +12,7 @@ I work in AI by day and build my own agents by night. This page is the night par
 
 * 🎤 **I talk about it too**, at ShopTalk, VivaTech, and WebSummit, but the rule of this profile is: nothing gets talked about here that wasn't built first. That's also the thesis of **julie-builds**, my personal site (coming soon): *I don't just talk about AI. I build it.*
 
-* 🧒 **My favorite users are under ten: my own children.** They test my agents, question everything, and force me to rephrase until it's simple, fun, and human. Best design reviewers I've ever worked with. (For the grown-ups: I also advise AI startups backed by leading VCs across the globe.)
+* 🧒 **My favourite beta testers are teenagers: my own sons.** They test my agents, question everything, and force me to rephrase until it's simple, fun, and human. Best design reviewers I've ever worked with. (For the grown-ups: I also advise AI startups backed by leading VCs across the globe.)
 
 * 🏃‍♀️ **Fun fact:** I've run 12 marathons and compete in Hyrox. My running coach is one of my own agents, and yes, it tells me to rest more than any human coach ever dared.
 
